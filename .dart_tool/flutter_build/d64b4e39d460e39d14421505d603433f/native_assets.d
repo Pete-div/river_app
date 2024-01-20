@@ -1,0 +1,1 @@
+ /Users/mac/Build-an-Animated-App-with-Rive-and-Flutter/.dart_tool/flutter_build/d64b4e39d460e39d14421505d603433f/native_assets.yaml: 
